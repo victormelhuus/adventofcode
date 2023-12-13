@@ -1,0 +1,1 @@
+[print(tree[i].symbol) for i in range(len(tree))]
